@@ -10,7 +10,20 @@ Full Stack Developer | React | ASP.NET Core
   <a href="https://yourportfolio.com">Portfolio</a> |
   <a href="https://instagram.com/YOUR-ID">Instagram</a>
 </p>
-
+<h1 align="center">
+  <span style="background-color:#00F7FF; color:#000; padding:10px 25px; border-radius:10px;">
+    Swalih
+  </span>
+</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00F7FF, #0066FF); 
+               color:white; 
+               padding:15px 35px; 
+               border-radius:12px; 
+               font-size:40px;">
+    Swalih
+  </span>
+</h1>
 ---
 
 <p align="center">
@@ -37,7 +50,7 @@ const Swalih = {
     frontEnd: ["React", "Redux Toolkit", "Tailwind CSS", "Material UI"],
     backEnd: ["ASP.NET Core", "RESTful APIs"],
     databaseManagement: ["Microsoft SQL Server"],
-    devOpsPractices: ["Docker", "AWS", "CI/CD Workflows"]
+    
   },
 
   professionalStrengths: [
